@@ -1,6 +1,6 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
-remote_theme : mmistakes/minimal-mistakes
+remote_theme : sharu725/online-cv
 
 # Site Settings
 title: My Resume
