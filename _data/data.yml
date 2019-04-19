@@ -43,14 +43,11 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+    summary:
+    I’m looking for a job.
+    My career as a developer is five years old. Previously, I was a mobile client developer.
+    Currently I would like to develop server backend. I am familiar with Scala, Java, C# and C++ languages and can develop web server with Play Framework and Akka. 
+    If you want to see my "scala" project by playframework, please visit github or demo site(It's not perfect yet, and it's still under development.)
 
 education:
     - degree: MSc in Computer Science
