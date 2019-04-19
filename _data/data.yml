@@ -43,7 +43,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary:
+    summary: |
     I’m looking for a job.
     My career as a developer is five years old. Previously, I was a mobile client developer.
     Currently I would like to develop server backend. I am familiar with Scala, Java, C# and C++ languages and can develop web server with Play Framework and Akka. 
