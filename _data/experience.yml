@@ -1,3 +1,20 @@
+- company: Gamevil
+  link: gamevil.com
+  job_title: Junior Mobile Developer
+  dates: Desember 2012 - Jeniary 2014
+  quote: >
+    The company that I had a company culture and a large project for the first time.
+  description: |
+    I worked for the Live Services team. Later on, I worked as a mobile online game client for two large project teams.
+    * Online Mobile Baseball Simulation Game Team - “Perfect Professional Baseball” (Engine - Cocos2dx, Platform – Android)
+    ** Developed GUI in out game scene using cocos2dx
+    ** Attached Gamevil live platform with login and account info
+    ** Developed network comunnication in out game scene(game, account, shop data)
+  * Live Service - zenonia 3~5, cartoon wars 1~2, gamevil baseball 2012~2013, etc.
+    ** Supported customer service(item, payment, etc... problems)
+    ** Attached Gamevil payment system to several games.
+    ** Built and distributed the latest version of the game.
+
 - company: Team Gehem
   link: teamgehem.com
   job_title: Senior Network System Administrator
