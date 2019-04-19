@@ -8,16 +8,16 @@
     I worked as a online mobile game clinet. One of projects was released, and the other was discontinued.
     
     Online Mobile Baseball Simulation Game Team - “Baseball Manager 2014” (Engine - Unity, Platform - Android, iOS)
-      * Developed Game UI(in-game, lobby, shop, etc.) screen using NGUI library.
-      * Developed communication with the server using the network api supported by Unity Engine and json protocols.
-      * Attached a social platform with sign in, friends list and item payment features to the game.
-      * Developed contents for updating.
-      * Built and distributed a multiplatform(Android, iOS) version.
+    * Developed Game UI(in-game, lobby, shop, etc.) screen using NGUI library.
+    * Developed communication with the server using the network api supported by Unity Engine and json protocols.
+    * Attached a social platform with sign in, friends list and item payment features to the game.
+    * Developed contents for updating.
+    * Built and distributed a multiplatform(Android, iOS) version.
       
     Online PC Game Launcher Development Team - “Kingdom Under Fire2” (SDK - MFC, Platform - Windows)
-      * In the middle of development, I participated in this project as an inter-company collaboration.
-      * Developed to update the GUI and maintain the code.
-      * Developed checking patch data from patch server and downloading from CDN server.
+    * In the middle of development, I participated in this project as an inter-company collaboration.
+    * Developed to update the GUI and maintain the code.
+    * Developed checking patch data from patch server and downloading from CDN server.
 
 - company: Gamevil
   link: www.gamevil.com
@@ -29,14 +29,14 @@
     I worked for the Live Services team. Later on, I worked as a online mobile game clinet for two project teams.
     
     Online Mobile Baseball Simulation Game Team - “Perfect Professional Baseball” (Engine - Cocos2dx, Platform – Android)
-      * Developed GUI in out game scene using cocos2dx.
-      * Attached Gamevil live platform with login and account info.
-      * Developed network comunnication in out game scene(game, account, shop data).
+    * Developed GUI in out game scene using cocos2dx.
+    * Attached Gamevil live platform with login and account info.
+    * Developed network comunnication in out game scene(game, account, shop data).
       
     Live Service - zenonia 3~5, cartoon wars 1~2, gamevil baseball 2012~2013, etc.
-      * Supported customer services(For problems such as item loss, payment error, etc.).
-      * Attached Gamevil payment system to several games.
-      * Built and distributed the latest version of the game.
+    * Supported customer services(For problems such as item loss, payment error, etc.).
+    * Attached Gamevil payment system to several games.
+    * Built and distributed the latest version of the game.
    
 - company: Team Gehem
   link: www.teamgehem.com
