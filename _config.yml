@@ -27,6 +27,17 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name is DongHee and I am a full stack scala developer. Currently I am developing some open source project and private project. My career as a developer is five years old. Previously, I was a mobile online game clinet devleoper. As mentioned above now I would like to develop server backend. I am familiar with Scala, Java, C# and C++ languages and can develop web server, application with Play Frameowrk and Akka. If you want to see the code or demo for my projects, please visit github and demo site(It might not be perfect yet. Also a few are still under development).
 
   I am most skilled in: <mark>Play Framework</mark> and <mark>Akka</mark>
+  I am overall skilled in
+  * High Level Language: Scala, Java, C#, C++
+  * Meddle Level Language: Shell, JavaScript
+  * Game Engine: Unity, Cocos2dx
+  * Web tech: Scalajs, HTML5, SCSS
+  * Database: Postgresql, MongoDB, Redis
+  * Mobile SDK: Android, iOS
+  * VCS: Git, Svn
+  * OS experience: Windows, Linux(Ubuntu), Mac OS
+  * Cloud Server experience: AWS, Heroku, Azure, GCP
+  * Etc: Docker, Traefik
 
 # Projects Section
 # projects_title: Projects
