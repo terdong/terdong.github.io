@@ -1,31 +1,60 @@
-#Update all the sections by editing the data.yml file inside _data folder.
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
 
-# Site Settings
-title: My Resume
-url: 'https://terdong.github.io'
-baseurl: '' #change it according to your repository name
-# Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: blue # blue turquoise green berry orange ceramic
-chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+# Personal info
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
 
-# Tracker
-#analytics: UA-83979019-1
+# Social links
+twitter_username: facespics
+github_username:  sproogen
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: chillwildlife
+linkedin_username: jameswgrant
+# pinterest_username: jekyll
+youtube_username: globalmtb
+# googleplus_username: +jekyll
 
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Rock climbing
+   - Gaming
+   - Knitting
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+# Footer
+footer_show_references: true
 
 # Build settings
-compress-site: yes
+remote_theme: sproogen/resume-theme
 
-encoding: "utf-8"
-compress_html: # - http://jch.penibelst.de/
-  clippings: all
-  ignore:
-    envs: development
+sass:
+  sass_dir: _sass
+  style: compressed
 
-# Development Settings
-port: 4000
-host: 0.0.0.0
-safe: false
+plugins:
+ - jekyll-seo-tag
