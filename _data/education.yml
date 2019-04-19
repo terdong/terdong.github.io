@@ -1,9 +1,13 @@
-- name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
+- name: Kongju National University
+  dates: 2005 - 2012
+  qualification: Bachelor of Computer Science
   quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+    In 1948, Kongju College of Education was established to meet the needs of a growing nation, creating for itself a tradition and history. Kongju National University(KNU) began to develop the distinctive TRI-CAMPUS facilities in the Gongju, Yesan, and Cheonan areas, which include seven separate colleges for undergraduate and graduate students, and special graduate school opportunities. KNU is the only national university near the new public administration complex city, Sejong. Therefore, KNU has unlimited visions for growth as the core university of the new public administration city in the 21st century Korea. KNU has 22,000 students, which includes international students from 39 different countries.
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    During my time at Kongju University I learned most of my key skills that computer theory, software design, software development, and multimedia engineering. Not only that, I got teamwork and programming skills while working a lot of projects. In addition, I took entrepreneurship through a start-up club activities. Also I made money and earned business experiences by doing projects collaboration with other companies and outsourcing business.
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    I spent my free time as a band member of the school rock band Club taking on roles such as Bassist.
+    
+    Bachelor thesis: Development of Two-way Communication System using Mobile Device
+The subject of this BA thesis is a system design and implementation which can communicate with other people by controlling connected things through interaction between devices.
+    
