@@ -25,7 +25,7 @@
     Sometimes it is inconvenient to see some images on the web. so I developed a program that can download images to local.
     * Developed a simple console program using Akka.
     * To use it enter the address and pattern in the configuration file and execute. The files will be saved as JPEG file in local area.
-    * Working on a GUI version using ScalaFx for more convenient use.
+    * Working on a GUI version using ScalaFx for more convenient use.
 
     Development Environment
     * SDK: Akka 2.5.6
