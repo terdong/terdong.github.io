@@ -1,3 +1,17 @@
+- company: SBS Academy in Gwangju
+  link: www.sbsgameacademy.com
+  jobs:
+    - title: Parttime Java Language, Android Programming Lecturer
+    - dates: November 2016 - March 2017
+    - title: Parttime Java Language Lecturer
+    - dates: December 2017 - September 2018
+  quote: >
+    I felt passion from the students and I taught them to the best of my ability. It was a very rewarding job.
+  description: |
+    I taught Java Language and Android programming to students.
+    
+    Based on my experience teaching younger friend from college, I tried to make it as easy as possible for students to understand programming languages using blackboard, powerpoint, a kind of examples, and body language. As I taught others, I was also able to study and learn more, so I could take one step further as a developer.
+    
 - company: Pien
   link:
   job_title: Senior Mobile Developer
@@ -22,7 +36,7 @@
 - company: Gamevil
   link: www.gamevil.com
   job_title: Junior Mobile Developer
-  dates: Desember 2012 - Jeniary 2014
+  dates: December 2012 - Jeniary 2014
   quote: >
     The company that I had a company culture and a large project for the first time.
   description: |
@@ -41,7 +55,7 @@
 - company: Team Gehem
   link: www.teamgehem.com
   job_title: Founder and App, Web Developer
-  dates: May 2011 - September 2012
+  dates: May 2011 - November 2012
   quote: >
     I established my first own company and have taken through my first professional career.
   description: |
