@@ -1,5 +1,6 @@
 - name: Let's memory
   link: letsmemory.teamgehem.com
+  github:
   quote: >
     A project started from "How can I effectively memorize foreign languages words?"
   description: | # this will include new lines to allow paragraphs
