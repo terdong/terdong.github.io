@@ -1,7 +1,18 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+- name: BBS Solution For Web Site
+  link: www.teamgehem.com
+  github: terdong/team_gehem_homepage
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    An integrated management solution developed to product the development studio TeamGehem's website.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Web site with login, membership, admin page, bulletin board implemented.
+    * Designed the databases.
+    * Developed management system(Account, Permission, Navigation, web pages)
+    * Developed BBS(Bulletin Board System): enable CRUD post and upload files
+    * Developed Authorization and Authentication with Google Oauth 2.0APIS
+    * Developed simple chatting module with HTML5 event-steam
+    
+    Deployment environment 
+    * SDK: Play Framework 2.6.x
+    * Language: Scala, Javascript, CSS, HTML
+    * Database: Postgresql
+    * Etc: Bootstrap 3.x, TinyMCE, Find Uploader, Slick
