@@ -1,35 +1,35 @@
 - company: SBS Academy in Gwangju
   link: www.sbsgameacademy.com
   jobs:
-    - title: Parttime Java Language, Android Programming Lecturer
+    - title: Part-time Java Language, Android Programming Lecturer
     - dates: December 2017 - September 2018
-    - title: Parttime Java Language Lecturer
+    - title: Part-time Java Language Lecturer
     - dates: November 2016 - March 2017
   quote: >
     I felt passion from the students and I taught them to the best of my ability. It was a very rewarding job.
   description: |
     I taught Java Language and Android programming to students.
     
-    Based on my experience teaching younger friend from college, I tried to make it as easy as possible for students to understand programming languages using blackboard, powerpoint, a kind of examples, and body language. As I taught others, I was also able to study and learn more, so I could take one step further as a developer.
+    Based on my experience teaching younger friends from college, I tried to make it as easy as possible for students to understand programming languages using blackboard, powerpoint, by examples and body language. As I taught others, I was also able to study and learn more, so I could take one step further as a developer.
     
 - company: Pien
   link:
   job_title: Senior Mobile Developer
   dates: March 2014 - June 2016
   quote: >
-    I became a senior developer and released the game.
+    I became a senior developer and released a game.
   description: |
-    I worked as a online mobile game clinet. One of projects was released, and the other was discontinued.
+    I worked as a online mobile game client. One of projects was released, and the other was discontinued.
     
     Online Mobile Baseball Simulation Game Team - “Baseball Manager 2014” (Engine - Unity, Platform - Android, iOS)
     * Developed Game UI(in-game, lobby, shop, etc.) screen using NGUI library.
-    * Developed communication with the server using the network api supported by Unity Engine and json protocols.
+    * Developed communication with the server using the network api supported by Unity Engine and Json protocols.
     * Attached a social platform with sign in, friends list and item payment features to the game.
     * Developed contents for updating.
     * Built and distributed a multiplatform(Android, iOS) version.
       
     Online PC Game Launcher Development Team - “Kingdom Under Fire2” (SDK - MFC, Platform - Windows)
-    * In the middle of development, I participated in this project as an inter-company collaboration.
+    * In the middle of development, I participated on this project as an inter-company collaboration.
     * Developed to update the GUI and maintain the code.
     * Developed checking patch data from patch server and downloading from CDN server.
 
@@ -38,17 +38,17 @@
   job_title: Junior Mobile Developer
   dates: December 2012 - Jeniary 2014
   quote: >
-    The company that I had a company culture and a large project for the first time.
+    The company where for the first time I had experienced a large project and culture.
   description: |
-    I worked for the Live Services team. Later on, I worked as a online mobile game clinet for two project teams.
+    I worked for the Live Services team. Later on, I worked as a online mobile game client for two project teams.
     
     Online Mobile Baseball Simulation Game Team - “Perfect Professional Baseball” (Engine - Cocos2dx, Platform – Android)
-    * Developed GUI in out game scene using cocos2dx.
+    * Developed GUI in a out game scene using cocos2dx.
     * Attached Gamevil live platform with login and account info.
-    * Developed network comunnication in out game scene(game, account, shop data).
+    * Developed network communication in a out game scene(game, account, shop data).
       
     Live Service - zenonia 3~5, cartoon wars 1~2, gamevil baseball 2012~2013, etc.
-    * Supported customer services(For problems such as item loss, payment error, etc.).
+    * Supported customer services (For problems such as item loss, payment error, etc.).
     * Attached Gamevil payment system to several games.
     * Built and distributed the latest version of the game.
    
@@ -57,10 +57,10 @@
   job_title: Founder and Mobile, Web Developer
   dates: May 2011 - November 2012
   quote: >
-    I established my first own company and have taken through my first professional career.
+    I set up my own company and have taken through first professional career.
   description: |
-    In the company that I founded when I was a college student I developed Android applications and business websites for released or software outsourcing.
+    As a college student I founded my company where I developed Android applications and business websites for release or software outsourcing.
     
-    I worked with other companies in the project, and some was released with the Android store to make money.
+    I worked with other companies on the project, and some was offered with the Android store for sale.
     * Android Applications were developed using Java, Android SDK and Eclipse.(the name of products: Voca Bean, Word Square, Live bus tracking for Cheonan City App)
     * WebSites were developed using HTML, Javasciprt, Flash, Actionscript.
