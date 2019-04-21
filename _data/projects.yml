@@ -22,7 +22,7 @@
   quote: >
     Automatically downloads desired image resources to a directory.
   description: | # this will include new lines to allow paragraphs
-    Sometimes it is inconvenient to see some images on the web. therefore I developed a program that can download images to local folder.
+    Sometimes it is inconvenient to see some images on the web. Therefore, I developed a program that can download images to local folder.
     * Developed a simple console program using Akka.
     * To use it enter the address and pattern in the configuration file and execute. The files will be saved as JPEG file in local folder.
     * Working on a GUI version using ScalaFx for more convenient use.
